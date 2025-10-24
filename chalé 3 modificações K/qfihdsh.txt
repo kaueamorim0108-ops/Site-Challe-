@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Exemplo com videos</title>
+        </head>
+      <body>
+        <video width="320" height="240" controls="controls">
+            <source src="movie.mp4"type="video/mp4" />
+            <source src="movie.we" type= "video/webm"  />
+            <source src="movie.ogv" type="video/ogv"  />
+            Seu navegar não suporta a tag video
+            </video> 
+            </body>
+            </html>
